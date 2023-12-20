@@ -72,7 +72,7 @@ body {
 .hero_area {
   height: 100vh;
   background-color: #b5caee;
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(..hero-bg.jpg);
   background-size: cover;
 }
 
@@ -145,7 +145,7 @@ a:focus {
 }
 
 .custom_nav-container .nav_search-btn {
-  background-image: url(../images/search-icon.png);
+  background-image: url(..search-icon.png);
   background-size: 22px;
   background-repeat: no-repeat;
   background-position-y: 7px;
@@ -180,7 +180,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {
-  background-image: url(../images/menu.png);
+  background-image: url(menu.png);
   background-size: 55px;
 }
 
@@ -308,15 +308,15 @@ a:focus {
 }
 
 .do_section .do_container .arrow-start::before {
-  background-image: url(../images/arrow-start.png);
+  background-image: url(arrow-start.png);
 }
 
 .do_section .do_container .arrow-middle::before {
-  background-image: url(../images/arrow-middle.png);
+  background-image: url(arrow-middle.png);
 }
 
-.do_section .do_container .arrow-end::before {
-  background-image: url(../images/arrow-end.png);
+.do_section .do_container .arrowheads::before {
+  background-image: url(arrowheadthethe .png);
 }
 
 .who_section .row {
